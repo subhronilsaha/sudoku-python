@@ -18,6 +18,6 @@ GUI Sudoku Board
 
 Temporary Sketched Value
 
-<img src="Screenshots/Updated-Value.png" width="250">
+<img src="Screenshots/Updated_Value.png" width="250">
 
 Final correct value
